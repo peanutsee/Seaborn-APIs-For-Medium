@@ -1,4 +1,4 @@
-# Seaborn-APIs-For-Medium
+# Seaborn-APIs
 Quick reference for SEABORN PLOT APIS.
 Easy to use. Feel free to pull though everything is from SEABORN but less wordy :>
 
